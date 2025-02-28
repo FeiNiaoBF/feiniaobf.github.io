@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: YeeKox の 小屋
 toc: false
 ---
 
